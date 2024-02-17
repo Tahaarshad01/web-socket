@@ -1,0 +1,27 @@
+* {
+  background-color: black;
+  color: antiquewhite;
+}
+marquee {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.heading {
+  margin-top: 50px;
+}
+input {
+  margin-top: 300px;
+  height: 35px;
+  width: 150px;
+  margin-right: 5px;
+  border-radius: 50px;
+}
+
+button {
+  margin-top: 300px;
+  background-color: rgb(42, 173, 42);
+  width: 50px;
+  height: 35px;
+  border-radius: 15px;
+  color: whitesmoke;
+}
